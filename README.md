@@ -1,135 +1,171 @@
 <div align="center">
 
-```
- █████╗ ██╗     ███████╗██╗  ██╗
-██╔══██╗██║     ██╔════╝╚██╗██╔╝
-███████║██║     █████╗   ╚███╔╝ 
-██╔══██║██║     ██╔══╝   ██╔██╗ 
-██║  ██║███████╗███████╗██╔╝ ██╗
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-### `> Alexandro Francisco` — Fullstack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=Laravel+%7C+API+Development+%7C+Fullstack+Architecture;Building+real+projects%2C+every+single+day.;Open+to+collaboration+%26+opportunities." alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/◉_Portfolio-alexporto--eight.vercel.app-ef4444?style=for-the-badge&labelColor=0d0d0d)](http://alexporto-eight.vercel.app/)
-[![Email](https://img.shields.io/badge/◉_Email-lexyorforger22@gmail.com-ef4444?style=for-the-badge&labelColor=0d0d0d)](mailto:lexyorforger22@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/lexxyxyforger?label=◉%20Follow&style=for-the-badge&color=ef4444&labelColor=0d0d0d)](https://github.com/lexxyxyforger)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&stroke=00d4ff&strokeWidth=1&text=ALEXANDRO%20FRANCISCO&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Fullstack%20Developer%20·%20Backend%20Architect%20·%20API%20Engineer&descAlignY=63&descSize=13&descColor=00d4ff&animation=fadeIn" />
 
 </div>
 
----
+<div align="center">
 
-## `whoami`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&height=40&lines=Building+production-grade+Laravel+systems.;Turning+APIs+into+seamless+experiences.;Clean+code.+Solid+architecture.+Real+results." alt="Typing SVG" />
 
-```php
-<?php
+</div>
 
-class Alex extends Developer
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-alexporto--eight.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](https://alexporto-eight.vercel.app/)&nbsp;
+[![Email](https://img.shields.io/badge/◈_CONTACT-lexyorforger22@gmail.com-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](mailto:lexyorforger22@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/lexxyxyforger?label=◈%20FOLLOW&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/lexxyxyforger)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+
+<br/>
+
+## &nbsp;`// about.me`
+
+```json
 {
-    public string $name     = "Alexandro Francisco";
-    public string $location = "🇮🇩 Indonesia";
-    public string $focus    = "Laravel · API Development · Fullstack Architecture";
-
-    public array $currentlyLearning = [
-        "Laravel (deep dive)",
-        "RESTful API Design",
-        "Fullstack Application Lifecycle",
-    ];
-
-    public array $lookingFor = [
-        "Web development collaborations",
-        "Laravel applications",
-        "POS systems",
-        "API integrations",
-    ];
-
-    public function motto(): string
-    {
-        return "Build real projects daily. Level up consistently.";
-    }
+  "alias"    : "Nightfall",
+  "name"     : "Alexandro Francisco",
+  "role"     : "Fullstack Developer",
+  "location" : "Indonesia",
+  "focus"    : ["Laravel", "Backend Architecture", "API Development"],
+  "previous" : ["Next.js", "Frontend Development"],
+  "learning" : ["Laravel Advanced Patterns", "RESTful API Design", "Fullstack Architecture"],
+  "open_to"  : ["Collaboration", "Laravel Projects", "POS Systems", "API Integration"],
+  "principle": "Ship real work. Understand deeply. Level up daily."
 }
 ```
 
----
+<br/>
 
-## `stack --list`
-
-#### ⬡ Languages
-![PHP](https://img.shields.io/badge/PHP-22272e?style=flat-square&logo=php&logoColor=ef4444)
-![TypeScript](https://img.shields.io/badge/TypeScript-22272e?style=flat-square&logo=typescript&logoColor=ef4444)
-![JavaScript](https://img.shields.io/badge/JavaScript-22272e?style=flat-square&logo=javascript&logoColor=ef4444)
-![Python](https://img.shields.io/badge/Python-22272e?style=flat-square&logo=python&logoColor=ef4444)
-
-#### ⬡ Frontend
-![React](https://img.shields.io/badge/React-22272e?style=flat-square&logo=react&logoColor=ef4444)
-![Next.js](https://img.shields.io/badge/Next.js-22272e?style=flat-square&logo=nextdotjs&logoColor=ef4444)
-![Vue.js](https://img.shields.io/badge/Vue.js-22272e?style=flat-square&logo=vuedotjs&logoColor=ef4444)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-22272e?style=flat-square&logo=tailwindcss&logoColor=ef4444)
-![HTML5](https://img.shields.io/badge/HTML5-22272e?style=flat-square&logo=html5&logoColor=ef4444)
-![CSS3](https://img.shields.io/badge/CSS3-22272e?style=flat-square&logo=css3&logoColor=ef4444)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-22272e?style=flat-square&logo=bootstrap&logoColor=ef4444)
-![Sass](https://img.shields.io/badge/Sass-22272e?style=flat-square&logo=sass&logoColor=ef4444)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-22272e?style=flat-square&logo=shadcnui&logoColor=ef4444)
-![Material UI](https://img.shields.io/badge/MUI-22272e?style=flat-square&logo=mui&logoColor=ef4444)
-![Vite](https://img.shields.io/badge/Vite-22272e?style=flat-square&logo=vite&logoColor=ef4444)
-
-#### ⬡ Backend & Database
-![Laravel](https://img.shields.io/badge/Laravel-22272e?style=flat-square&logo=laravel&logoColor=ef4444)
-![Node.js](https://img.shields.io/badge/Node.js-22272e?style=flat-square&logo=nodedotjs&logoColor=ef4444)
-![Express](https://img.shields.io/badge/Express-22272e?style=flat-square&logo=express&logoColor=ef4444)
-![MySQL](https://img.shields.io/badge/MySQL-22272e?style=flat-square&logo=mysql&logoColor=ef4444)
-![MongoDB](https://img.shields.io/badge/MongoDB-22272e?style=flat-square&logo=mongodb&logoColor=ef4444)
-
-#### ⬡ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-22272e?style=flat-square&logo=git&logoColor=ef4444)
-![Docker](https://img.shields.io/badge/Docker-22272e?style=flat-square&logo=docker&logoColor=ef4444)
-![Linux](https://img.shields.io/badge/Linux-22272e?style=flat-square&logo=linux&logoColor=ef4444)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22272e?style=flat-square&logo=ubuntu&logoColor=ef4444)
-![VS Code](https://img.shields.io/badge/VS%20Code-22272e?style=flat-square&logo=visualstudiocode&logoColor=ef4444)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-22272e?style=flat-square&logo=tensorflow&logoColor=ef4444)
-
----
-
-## `git log --stat`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lexxyxyforger&show_icons=true&hide=stars,issues&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexxyxyforger&langs_count=8&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&layout=compact&custom_title=Top%20Languages" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lexxyxyforger&stroke=ef4444&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" />
-
-</div>
-
----
-
-## `connect --open`
+## &nbsp;`// tech.stack`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lexxyxyforger-22272e?style=for-the-badge&logo=github&logoColor=ef4444)](https://github.com/lexxyxyforger)
-[![Threads](https://img.shields.io/badge/Threads-@nightfall2373-22272e?style=for-the-badge&logo=threads&logoColor=ef4444)](https://www.threads.net/@nightfall2373)
-[![Discord](https://img.shields.io/badge/Discord-lexxxxy123-22272e?style=for-the-badge&logo=discord&logoColor=ef4444)](https://discord.com/users/lexxxxy123)
+**`[ BACKEND ]`**
+
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=00d4ff)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00d4ff)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00d4ff)&nbsp;
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00d4ff)
+
+**`[ FRONTEND ]`**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00d4ff)&nbsp;
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=00d4ff)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00d4ff)
+
+**`[ DATABASE & INFRA ]`**
+
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00d4ff)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00d4ff)&nbsp;
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+
+<br/>
+
+## &nbsp;`// projects.featured`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>◈ &nbsp;POS System</h4>
+      <p>Point-of-sale web application built with Laravel. Handles inventory, transactions, and real-time reporting for retail businesses.</p>
+      <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00d4ff" />
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00d4ff" />
+      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00d4ff" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>◈ &nbsp;REST API Service</h4>
+      <p>Modular RESTful API with token-based auth, structured responses, and clean resource architecture. Designed for scalability.</p>
+      <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00d4ff" />
+      <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00d4ff" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>◈ &nbsp;Portfolio Website</h4>
+      <p>Personal developer portfolio deployed on Vercel. Built to reflect modern UI/UX design principles and showcase project work.</p>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00d4ff" />
+      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00d4ff" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>◈ &nbsp;Fullstack Web App</h4>
+      <p>End-to-end application integrating a Laravel backend with a modern JS frontend. Focuses on clean API contracts and component design.</p>
+      <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00d4ff" />
+      <img src="https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=00d4ff" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+
+<br/>
+
+## &nbsp;`// git.stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lexxyxyforger&show_icons=true&hide=stars,issues&count_private=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&hide_border=true&border_radius=8&rank_icon=github&custom_title=GitHub+Activity" />&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexxyxyforger&langs_count=6&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=8&layout=compact&custom_title=Top+Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lexxyxyforger&stroke=0d1117&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=8" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+
+<br/>
+
+## &nbsp;`// connect`
+
+<div align="center">
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/◈__github.com/lexxyxyforger-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&color=0d1117)](https://github.com/lexxyxyforger)&nbsp;
+[![Threads](https://img.shields.io/badge/◈__@nightfall2373-0d1117?style=for-the-badge&logo=threads&logoColor=00d4ff&color=0d1117)](https://www.threads.net/@nightfall2373)&nbsp;
+[![Discord](https://img.shields.io/badge/◈__lexxxxy123-0d1117?style=for-the-badge&logo=discord&logoColor=00d4ff&color=0d1117)](https://discord.com/users/lexxxxy123)
 
 <br/>
 
 ```
-> I'm open to collaboration, technical discussions,
-  and opportunities in web development.
-  
-  Let's build something great together. ██████████ 100%
+  Open to serious collaboration, backend work, and technical discussions.
+  If you're building something meaningful — let's talk.
 ```
 
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=lexxyxyforger&style=flat-square&color=00d4ff&label=profile+views&labelColor=0d1117" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lexxyxyforger&style=flat-square&color=ef4444&label=profile+views" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&section=footer" />
+
 </div>
