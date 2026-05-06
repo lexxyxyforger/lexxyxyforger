@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&stroke=00d4ff&strokeWidth=1&text=ALEXANDRO%20FRANCISCO&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Fullstack%20Developer%20·%20Backend%20Architect%20·%20API%20Engineer&descAlignY=63&descSize=13&descColor=00d4ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:060811,30:0a0f1a,70:0d1421,100:060811&stroke=00bcd4&strokeWidth=1.5&text=ALEXANDRO%20FRANCISCO&fontSize=36&fontColor=e8f4f8&fontAlignY=50&desc=Backend%20Architect%20%C2%B7%20Laravel%20Engineer%20%C2%B7%20Fullstack%20Developer&descAlignY=68&descSize=12&descColor=00bcd4&animation=scaleIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&height=40&lines=Building+production-grade+Laravel+systems.;Turning+APIs+into+seamless+experiences.;Clean+code.+Solid+architecture.+Real+results." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1500&color=00BCD4&center=true&vCenter=true&multiline=false&width=620&height=32&lines=Architecting+scalable+backends+with+Laravel+%26+clean+API+design.;From+database+schema+to+deployment+—+end+to+end.;Indonesia+%7C+Open+to+remote+collaboration." />
 
 </div>
 
@@ -14,158 +14,219 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-alexporto--eight.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](https://alexporto-eight.vercel.app/)&nbsp;
-[![Email](https://img.shields.io/badge/◈_CONTACT-lexyorforger22@gmail.com-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](mailto:lexyorforger22@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/github/followers/lexxyxyforger?label=◈%20FOLLOW&style=for-the-badge&color=00d4ff&labelColor=0d1117)](https://github.com/lexxyxyforger)
+[![Portfolio](https://img.shields.io/badge/-alexporto--eight.vercel.app-060811?style=for-the-badge&logo=vercel&logoColor=00bcd4&labelColor=060811)](https://alexporto-eight.vercel.app/)&ensp;[![Email](https://img.shields.io/badge/-lexyorforger22%40gmail.com-060811?style=for-the-badge&logo=gmail&logoColor=00bcd4&labelColor=060811)](mailto:lexyorforger22@gmail.com)&ensp;[![GitHub](https://img.shields.io/badge/-lexxyxyforger-060811?style=for-the-badge&logo=github&logoColor=00bcd4&labelColor=060811)](https://github.com/lexxyxyforger)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
 
 <br/>
 
-## &nbsp;`// about.me`
+## &nbsp;&nbsp;`$ whoami`
 
-```json
-{
-  "alias"    : "Nightfall",
-  "name"     : "Alexandro Francisco",
-  "role"     : "Fullstack Developer",
-  "location" : "Indonesia",
-  "focus"    : ["Laravel", "Backend Architecture", "API Development"],
-  "previous" : ["Next.js", "Frontend Development"],
-  "learning" : ["Laravel Advanced Patterns", "RESTful API Design", "Fullstack Architecture"],
-  "open_to"  : ["Collaboration", "Laravel Projects", "POS Systems", "API Integration"],
-  "principle": "Ship real work. Understand deeply. Level up daily."
-}
+```typescript
+const engineer = {
+  name      : "Alexandro Francisco",
+  alias     : "Nightfall",
+  role      : "Fullstack Developer · Backend Architect",
+  based     : "Indonesia",
+  core      : ["Laravel", "REST API Design", "Fullstack Architecture"],
+  adjacent  : ["Next.js", "React", "Vue.js", "Node.js"],
+  mindset   : "Systems over shortcuts. Structure before speed. Ship what lasts.",
+  available : true, // open to collaboration
+};
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
 
 <br/>
 
-## &nbsp;`// tech.stack`
+## &nbsp;&nbsp;`$ currently --building`
 
-<div align="center">
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
-**`[ BACKEND ]`**
+**▸ &nbsp;Production POS System**
+> Inventory-aware, multi-outlet point-of-sale platform. Built on Laravel with role-based access, real-time stock sync, and printable reporting.
 
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=00d4ff)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00d4ff)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00d4ff)&nbsp;
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00d4ff)
+`Laravel` &nbsp;`MySQL` &nbsp;`Tailwind` &nbsp;`Alpine.js`
 
-**`[ FRONTEND ]`**
+</td>
+<td width="50%" valign="top">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00d4ff)&nbsp;
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=00d4ff)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00d4ff)
+**▸ &nbsp;Modular API Gateway**
+> RESTful API service with versioned routing, token lifecycle management, structured JSON contracts, and composable resource layers.
 
-**`[ DATABASE & INFRA ]`**
+`Laravel Sanctum` &nbsp;`API Resources` &nbsp;`PHP 8.2`
 
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00d4ff)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00d4ff)&nbsp;
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
-
-<br/>
-
-## &nbsp;`// projects.featured`
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>◈ &nbsp;POS System</h4>
-      <p>Point-of-sale web application built with Laravel. Handles inventory, transactions, and real-time reporting for retail businesses.</p>
-      <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00d4ff" />
-      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00d4ff" />
-      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00d4ff" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>◈ &nbsp;REST API Service</h4>
-      <p>Modular RESTful API with token-based auth, structured responses, and clean resource architecture. Designed for scalability.</p>
-      <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00d4ff" />
-      <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00d4ff" />
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>◈ &nbsp;Portfolio Website</h4>
-      <p>Personal developer portfolio deployed on Vercel. Built to reflect modern UI/UX design principles and showcase project work.</p>
-      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00d4ff" />
-      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00d4ff" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>◈ &nbsp;Fullstack Web App</h4>
-      <p>End-to-end application integrating a Laravel backend with a modern JS frontend. Focuses on clean API contracts and component design.</p>
-      <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=00d4ff" />
-      <img src="https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=00d4ff" />
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
 
 <br/>
 
-## &nbsp;`// git.stats`
+## &nbsp;&nbsp;`$ ls tech/`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lexxyxyforger&show_icons=true&hide=stars,issues&count_private=true&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&bg_color=0d1117&hide_border=true&border_radius=8&rank_icon=github&custom_title=GitHub+Activity" />&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexxyxyforger&langs_count=6&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=8&layout=compact&custom_title=Top+Languages" />
+**— BACKEND —**
 
-<br/><br/>
+![Laravel](https://img.shields.io/badge/Laravel-060811?style=flat-square&logo=laravel&logoColor=00bcd4)&ensp;![PHP](https://img.shields.io/badge/PHP%208.x-060811?style=flat-square&logo=php&logoColor=00bcd4)&ensp;![Node.js](https://img.shields.io/badge/Node.js-060811?style=flat-square&logo=nodedotjs&logoColor=00bcd4)&ensp;![Express](https://img.shields.io/badge/Express-060811?style=flat-square&logo=express&logoColor=00bcd4)&ensp;![REST API](https://img.shields.io/badge/REST%20API-060811?style=flat-square&logo=fastapi&logoColor=00bcd4)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lexxyxyforger&stroke=0d1117&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true&border_radius=8" />
+**— FRONTEND —**
+
+![React](https://img.shields.io/badge/React-060811?style=flat-square&logo=react&logoColor=00bcd4)&ensp;![Next.js](https://img.shields.io/badge/Next.js-060811?style=flat-square&logo=nextdotjs&logoColor=00bcd4)&ensp;![Vue.js](https://img.shields.io/badge/Vue.js-060811?style=flat-square&logo=vuedotjs&logoColor=00bcd4)&ensp;![TypeScript](https://img.shields.io/badge/TypeScript-060811?style=flat-square&logo=typescript&logoColor=00bcd4)&ensp;![TailwindCSS](https://img.shields.io/badge/Tailwind-060811?style=flat-square&logo=tailwindcss&logoColor=00bcd4)&ensp;![JavaScript](https://img.shields.io/badge/JavaScript-060811?style=flat-square&logo=javascript&logoColor=00bcd4)
+
+**— DATA & INFRA —**
+
+![MySQL](https://img.shields.io/badge/MySQL-060811?style=flat-square&logo=mysql&logoColor=00bcd4)&ensp;![MongoDB](https://img.shields.io/badge/MongoDB-060811?style=flat-square&logo=mongodb&logoColor=00bcd4)&ensp;![Docker](https://img.shields.io/badge/Docker-060811?style=flat-square&logo=docker&logoColor=00bcd4)&ensp;![Linux](https://img.shields.io/badge/Linux-060811?style=flat-square&logo=linux&logoColor=00bcd4)&ensp;![Git](https://img.shields.io/badge/Git-060811?style=flat-square&logo=git&logoColor=00bcd4)&ensp;![Nginx](https://img.shields.io/badge/Nginx-060811?style=flat-square&logo=nginx&logoColor=00bcd4)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,12,20&section=header" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
 
 <br/>
 
-## &nbsp;`// connect`
+## &nbsp;&nbsp;`$ cat projects/`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;POS System
+Point-of-sale web application for retail operations. Handles real-time inventory tracking, multi-category transactions, receipt generation, and management dashboards with role-based access control.
+
+![Laravel](https://img.shields.io/badge/Laravel-060811?style=flat-square&logo=laravel&logoColor=00bcd4) ![MySQL](https://img.shields.io/badge/MySQL-060811?style=flat-square&logo=mysql&logoColor=00bcd4) ![Tailwind](https://img.shields.io/badge/Tailwind-060811?style=flat-square&logo=tailwindcss&logoColor=00bcd4)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;REST API Service
+Production-grade RESTful API with Sanctum token auth, versioned routes, API resource transformers, and standardized response envelopes. Built for external client consumption.
+
+![Laravel](https://img.shields.io/badge/Laravel-060811?style=flat-square&logo=laravel&logoColor=00bcd4) ![PHP](https://img.shields.io/badge/PHP-060811?style=flat-square&logo=php&logoColor=00bcd4) ![Sanctum](https://img.shields.io/badge/Sanctum-060811?style=flat-square&logo=laravel&logoColor=00bcd4)
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;Fullstack Web Application
+End-to-end application built on a Laravel API backend and Vue.js SPA frontend. Clean separation of concerns, API contract-first design, and reusable component architecture.
+
+![Laravel](https://img.shields.io/badge/Laravel-060811?style=flat-square&logo=laravel&logoColor=00bcd4) ![Vue.js](https://img.shields.io/badge/Vue.js-060811?style=flat-square&logo=vuedotjs&logoColor=00bcd4) ![MySQL](https://img.shields.io/badge/MySQL-060811?style=flat-square&logo=mysql&logoColor=00bcd4)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ &nbsp;Portfolio — alexporto
+Personal developer portfolio deployed on Vercel. Designed with modern UX principles, optimized performance scores, and a cinematic dark-mode aesthetic.
+
+![Next.js](https://img.shields.io/badge/Next.js-060811?style=flat-square&logo=nextdotjs&logoColor=00bcd4) ![Tailwind](https://img.shields.io/badge/Tailwind-060811?style=flat-square&logo=tailwindcss&logoColor=00bcd4) ![Vercel](https://img.shields.io/badge/Vercel-060811?style=flat-square&logo=vercel&logoColor=00bcd4)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
+
+<br/>
+
+## &nbsp;&nbsp;`$ cat philosophy.md`
+
+```
+  [ Architecture ]   Structure is not overhead — it is the product.
+  [ Code Quality ]   Readable code is a form of documentation.
+  [ Delivery     ]   Ship early. Iterate. Never sacrifice fundamentals for speed.
+  [ Ownership    ]   From schema design to deployment — own the full surface.
+  [ Discipline   ]   Level up daily. The gap between good and great is consistent reps.
+```
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
+
+<br/>
+
+## &nbsp;&nbsp;`$ neofetch --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lexxyxyforger&show_icons=true&count_private=true&hide=stars,issues&include_all_commits=true&title_color=00bcd4&text_color=b0c4ce&icon_color=00bcd4&bg_color=060811&hide_border=true&border_radius=6&custom_title=Contribution+Activity&rank_icon=github" />&ensp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexxyxyforger&langs_count=7&title_color=00bcd4&text_color=b0c4ce&bg_color=060811&hide_border=true&border_radius=6&layout=compact&custom_title=Language+Distribution" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lexxyxyforger&background=060811&ring=00bcd4&fire=00bcd4&currStreakNum=e8f4f8&currStreakLabel=00bcd4&sideNums=b0c4ce&sideLabels=5e7380&dates=5e7380&stroke=060811&hide_border=true&border_radius=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lexxyxyforger&bg_color=060811&color=00bcd4&line=00bcd4&point=e8f4f8&area=true&area_color=00bcd4&hide_border=true&custom_title=Commit+Activity" />
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
+
+<br/>
+
+## &nbsp;&nbsp;`$ cat devops/`
+
+<div align="center">
+
+| Layer | Stack |
+|---|---|
+| Containerization | Docker · Docker Compose |
+| Web Server | Nginx · Apache |
+| OS / Shell | Ubuntu Linux · Bash |
+| Version Control | Git · GitHub |
+| Deploy Targets | Vercel · VPS · Shared Hosting |
+| Environment | `.env` config · Laravel Forge-ready |
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:060811,50:00bcd4,100:060811" width="96%" /></div>
+
+<br/>
+
+## &nbsp;&nbsp;`$ connect --remote`
 
 <div align="center">
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/◈__github.com/lexxyxyforger-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&color=0d1117)](https://github.com/lexxyxyforger)&nbsp;
-[![Threads](https://img.shields.io/badge/◈__@nightfall2373-0d1117?style=for-the-badge&logo=threads&logoColor=00d4ff&color=0d1117)](https://www.threads.net/@nightfall2373)&nbsp;
-[![Discord](https://img.shields.io/badge/◈__lexxxxy123-0d1117?style=for-the-badge&logo=discord&logoColor=00d4ff&color=0d1117)](https://discord.com/users/lexxxxy123)
+[![GitHub](https://img.shields.io/badge/-github.com%2Flexxyxyforger-060811?style=for-the-badge&logo=github&logoColor=00bcd4&labelColor=060811)](https://github.com/lexxyxyforger)&ensp;[![Threads](https://img.shields.io/badge/-@nightfall2373-060811?style=for-the-badge&logo=threads&logoColor=00bcd4&labelColor=060811)](https://www.threads.net/@nightfall2373)&ensp;[![Discord](https://img.shields.io/badge/-lexxxxy123-060811?style=for-the-badge&logo=discord&logoColor=00bcd4&labelColor=060811)](https://discord.com/users/lexxxxy123)
 
 <br/>
 
 ```
-  Open to serious collaboration, backend work, and technical discussions.
-  If you're building something meaningful — let's talk.
+  Available for backend contracts, Laravel architecture reviews,
+  API integration work, and serious fullstack collaborations.
+  If what you're building is real — let's connect.
 ```
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=lexxyxyforger&style=flat-square&color=00d4ff&label=profile+views&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=lexxyxyforger&style=flat-square&color=00bcd4&label=profile+views&labelColor=060811" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:060811,50:0a1628,100:060811&section=footer" />
 
 </div>
