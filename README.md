@@ -243,6 +243,13 @@ const engineer: Profile = {
 
 </div>
 
+<div align="center">
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lexxyxyforger&bg_color=060d1a&color=38bdf8&line=0e7490&point=38bdf8&area=true&area_color=0a1628&hide_border=true&custom_title=Commit+Activity+Graph&radius=6" />
+
+</div>
+
 <br/>
 
 ---
